@@ -1,0 +1,18 @@
+Daytripr
+A better road trip planning web-app developed during the Tufts Polyhack in Oct 2015
+
+Authors:
+Matthew Yaspan
+Ballard Blair
+Olivia MacDougal
+Mateo Davis
+
+Using GoogleMaps API and TripAdvisor's API we developed an app 
+to tell you, when you are going on a road trip, where you will be when you 
+want food, entertainment or a hotel. 
+
+For example: 
+If you are leaving for a road trip from New York to Boston at 10am, you 
+know you may be hungry around 12pm. Using GoogleMaps, Daytripr will figure 
+out where you will be at 12pm and give you restaurant recommendations using
+TripAdvisor's restaurant data. We hope to provide a better road trip experience. 
